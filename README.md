@@ -3,7 +3,7 @@ This project is QA Automation test of Propeler center webpage.
 For this project I used Cypress framework with Mocha runner and JavaScript language.
 
 
-To be able to successfully run the test, you need to install webdriver for your version of Chrome browser and put driver in system path of your computer. The install guide, read the following link:
+To be able to successfully run the test, you need to install webdriver for your version of Chrome browser and put driver in system path of your computer. For the install guide, read the following link:
 
       https://chromedriver.chromium.org/getting-started
 
